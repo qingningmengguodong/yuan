@@ -1,18 +1,4 @@
 import random
-rt random
-
-class Shishen:
-    ID = 0
-    speed = 0
-    yuan = 0
-    def __init__(self,_ID,_speed):
-        self.ID = _ID
-        self.speed = _speed
-
-speed=[Shishen(1,270),Shishen(2,240),Shishen(3,140),Shishen(4,139),Shishen(5,138),Shishen(6,128)]
-l=[]
-for i in range(1,11):
-    l=l+[Shishen(x.ID, x.speed*i) for x
 
 class Shishen:
     ID = 0
