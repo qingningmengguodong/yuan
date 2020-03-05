@@ -1,0 +1,41 @@
+turbo equalizer
+access layer
+ad hoc wireless networks
+ad hoc on-demand distance vector routing
+ad hoc wireless networks
+cross-layer
+energy-constrained networks
+network capacity limits
+protocol layers
+adaptive coded modulation
+adaptive coding
+adaptive equalizers
+adaptive loading
+adaptive modulation
+adaptive transmission systems
+combined fast and slow fading
+general M-ary modulations
+hybrid techniques
+variable-coding techniques
+variable error probability
+variable-power techniques
+variable-rate techniques
+variable-rate variable-power MQAM
+adaptive rate
+adaptive transmission system
+additive white Gaussian noise channel
+Advance Mobile Phone Service
+Alamouti code
+multiple-input multiple-output
+transmitter diversity
+ALOHANET
+ALOHA protocol
+random access systems
+alternate Q-function representation
+digital modulation
+amplify-and-forward strategy
+routing protocols
+amplitude and phase modulation
+digital communications
+analog cellular systems
+analog equalizer
